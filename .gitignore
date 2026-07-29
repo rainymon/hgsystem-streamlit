@@ -1,0 +1,35 @@
+# HGSYSTEM original program
+*.exe
+*.EXE
+*.bat
+*.BAT
+DICT.*
+DATADICT/
+STINPUT/
+WORK/
+
+# HGSYSTEM results
+*.HPI
+*.HPR
+*.HSL
+*.HSI
+*.HSR
+*.HSF
+*.HPM
+*.HP1
+*.HP2
+*.HPW
+*.HPE
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Private settings
+.streamlit/secrets.toml
+
+# Windows
+Thumbs.db
+desktop.ini
